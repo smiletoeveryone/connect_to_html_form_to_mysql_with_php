@@ -13,7 +13,7 @@ then run it as soon after installing.
 
 ## 2. Create MySQL Database to Connect to HTML Form
 
-// type localhost/PHPMyAdmin in your browser’s search bar and press enter. As show in the image below.
+// type localhost/PHPMyAdmin or 127.0.0.1 in your browser’s search bar and press enter. As show in the image below.
 
 // This will take you to the PHPMyAdmin page. 
 
